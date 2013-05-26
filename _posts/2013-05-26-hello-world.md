@@ -1,6 +1,8 @@
 ---
 published: !<tag:yaml.org,2002:js/undefined> ""
-layout: default
+layout: post
+title: "Hello World!"
+category: startups
 
 ---
 
