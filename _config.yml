@@ -9,7 +9,7 @@ production_url : http://walterpinson.com
 description: "Thoughts and musings on credit reporting, startups, software, and various sundries by Walter Pinson."
 disqus_shortname: walterpinsonblog
 analytics: 
-gauges: 50f2b533613f5d7c8000000c
+gauges: 
 author :
   name : Walter Pinson
   github : walterpinson
