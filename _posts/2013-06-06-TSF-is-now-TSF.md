@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: TSF is now ...TSF
 categories: startups
