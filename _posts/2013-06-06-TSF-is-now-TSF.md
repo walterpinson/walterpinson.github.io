@@ -9,7 +9,7 @@ At the end of [TSF Pitch Day Spring 2013][1], [Chris Heivly][4] announced that T
 
 In the Fall 2012 class, one of the five portfolio companies ([Alekto][2]) was from Washington, DC.  In the [Spring 2013 class][3], two of the five portfolio companies were from outside the Triangle.  One was from Washington, DC and the other was from New York.
 
-Chris Heivly explained it well when he said that rebranding and dropping the "Triangle" was a move toward ensuring that TSF attracted the best startups and the best investors from across the country, if not the globe.
+Chris Heivly explained it well when he said that rebranding by dropping the word, "Triangle", was a move toward ensuring that TSF attracted the best startups and the best investors from across the country, if not the globe.  But rest assured that TSF isn't moving anywhere.  It's going to stay put, right in downtown Durham.
 
 [1]: http://trianglestartupfactory.com/event/spring-2013-pitch-day/
 [2]: http://www.alekto.co
