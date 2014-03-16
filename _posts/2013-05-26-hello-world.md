@@ -2,7 +2,7 @@
 published: !<tag:yaml.org,2002:js/undefined> ""
 layout: post
 title: "Hello World"
-category: startups
+categories: startups
 
 ---
 
