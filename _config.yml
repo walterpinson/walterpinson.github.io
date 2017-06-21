@@ -7,7 +7,7 @@ title: Walter Pinson
 subtitle: I'm all over the place
 description: This is the place where I capture and share my thoughts on the things that are curretnly before me.
 author: Walter Pinson
-language: en-us
+language: en
 timezone: America/New_York
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anatole
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -71,3 +71,22 @@ deploy:
   type: git
   repo: https://github.com/walterpinson/walterpinson.github.io.git
   branch: master
+
+
+# Blog
+keywords: Hexo,HTML,CSS,android,Linux
+avatar: /images/party.png
+
+# Social Accounts
+twitter: walterpinson
+rss: 
+weibo: 
+instagram: 
+github: walterpinson
+facebook:
+linkedin: walterpinson
+
+# Comment
+duoshuo: 
+disqus: walterpinsonblog
+gentie: 
