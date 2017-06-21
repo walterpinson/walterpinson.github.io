@@ -70,3 +70,4 @@ theme: anatole
 deploy:
   type: git
   repo: https://github.com/walterpinson/walterpinson.github.io.git
+  branch: master
