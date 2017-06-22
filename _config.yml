@@ -90,3 +90,8 @@ linkedin: walterpinson
 duoshuo: 
 disqus: walterpinsonblog
 gentie: 
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: false
