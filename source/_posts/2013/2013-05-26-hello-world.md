@@ -2,9 +2,11 @@
 published: !<tag:yaml.org,2002:js/undefined> ""
 layout: post
 title: "Hello World"
-categories: startups
-tags: []
 date: 2013-05-26 03:00:00
+categories:
+    - Startup Life
+tags:
+  - startups
 ---
 
 ## I'm back!  

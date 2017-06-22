@@ -1,9 +1,12 @@
 ---
 title: Late Payers Not Always At Fault
-tags:
-  - Uncategorized
 date: 2016-02-26 21:25:21
+categories:
+  - Credit Reporting
+tags:
+  - credit reporting
 ---
+
 ![](https://paypastduebills.files.wordpress.com/2016/02/15016504213_11408f9427_z.jpg?w=768 "15016504213_11408f9427_z")
 
 <span style="font-weight:400;">The first thing that comes to mind when we learn that someone is late paying their bills is that they are irresponsible.  However, when people pay their bills late in today’s economy, it is often due to circumstances beyond their control.  They could be suffering the impacts of any number of macro- or microeconomic factors such as a weak economic recovery, shifts in the global economy, or an unforeseen medical emergency.</span>

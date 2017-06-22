@@ -2,7 +2,8 @@
 published: true
 layout: post
 title: "Rich Piana Saved My Legs"
-categories: bodybuilding
+categories:
+    - Bodybuilding
 tags: []
 date: 2014-03-16 03:00:00
 ---

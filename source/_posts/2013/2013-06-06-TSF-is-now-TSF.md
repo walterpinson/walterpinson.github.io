@@ -2,8 +2,10 @@
 published: true
 layout: post
 title: TSF is now ...TSF
-categories: startups
-tags: []
+categories:
+    - Startup Life
+tags:
+  - startups
 date: 2013-06-06 03:00:00
 ---
 
