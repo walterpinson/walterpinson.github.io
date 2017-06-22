@@ -6,6 +6,7 @@ date: 2015-07-24 15:00:00
 categories: 
     - Credit Reporting
 tags:
+    - cfpb
     - credit reporting
 ---
 
