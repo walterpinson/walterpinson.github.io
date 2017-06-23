@@ -2,6 +2,7 @@
 layout: page
 title: "About Walter"
 date: 2013-05-26 03:00:00
+comments: false
 ---
 
 ![](/images/blackcomb.png)
