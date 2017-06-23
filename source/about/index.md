@@ -1,13 +1,11 @@
 ---
 layout: page
-title: "About Walter"
+title: "Hi! I'm Walter."
 date: 2013-05-26 03:00:00
 comments: false
 ---
 
 ![](/images/blackcomb.png)
-
-# Hi!  I'm Walter
 
 I am an entrepreneur, founder and CEO of [Alekto][1]; a [Triangle Startup Factory][2] Fall 2012 alumni company. Our team creates online software to help people maximize their credit scores while dealing with debt collectors.  This site is where I write about credit reporting, startups, and tinkering with technology.
 
