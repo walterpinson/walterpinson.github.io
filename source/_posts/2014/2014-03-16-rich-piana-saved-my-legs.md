@@ -3,8 +3,9 @@ published: true
 layout: post
 title: "Rich Piana Saved My Legs"
 categories:
-    - Bodybuilding
-tags: []
+	- Do You Even Lift?
+tags:
+	- bodybuilding
 date: 2014-03-16 03:00:00
 ---
 Why can you find me in the gym nearly every day of the week?  
@@ -16,8 +17,9 @@ This is why I took up bodybuilding, or weight training or whatever you want to c
 ## Training Wheels
 After years of trying to grow my legs yielding only marginal results, one tip from Rich Piana changed everything.
 
-<iframe width="640" height="390" src="//www.youtube.com/embed/7Y8uH2S_FLw" frameborder="0" allowfullscreen></iframe>
-<br> <br>
+<div style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-EVXC_6-gss" frameborder="0" allowfullscreen></iframe>
+</div>
 	
 Rich delivers two major tips in the Training Wheels video
 
