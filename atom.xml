@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://walterpinson.com/"/>
-  <updated>2017-06-22T09:37:31.000Z</updated>
+  <updated>2017-06-24T03:29:54.000Z</updated>
   <id>http://walterpinson.com/</id>
   
   <author>
@@ -14,6 +14,62 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Bitcoin Movie Review</title>
+    <link href="http://walterpinson.com/Bitcoin-Movie-Review/"/>
+    <id>http://walterpinson.com/Bitcoin-Movie-Review/</id>
+    <published>2017-06-24T03:29:54.000Z</published>
+    <updated>2017-06-24T03:29:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’ve been watching a number of Bitcoin documentaries and movies as of late.  I figured that since I was investing the time to watch the movies, I may as well provide a review.  As I complete each review, you’ll be able to navigate to them by clicking “My Take” in the table below.</p>
+<p>Interestingly enough, Netflix does not (as of June 2017) have a single Bitcoin title available.  On the other hand, Amazon Prime Video has at least 11 documentaries and one feature film on the topic.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">Rank</th>
+<th style="text-align:left">Name</th>
+<th style="text-align:left">My Take</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">1</td>
+<td style="text-align:left"><a href="https://www.amazon.com/gp/video/detail/B01MTQZOCV" target="_blank" rel="external">Banking on Bitcoin</a></td>
+<td style="text-align:left">Shrem is a stoner; hands caught in cookie jar</td>
+</tr>
+<tr>
+<td style="text-align:center">2</td>
+<td style="text-align:left"><a href="https://www.amazon.com/gp/video/detail/B013HU3WX6" target="_blank" rel="external">Bitcoin: The End Of Money As We Know It</a></td>
+<td style="text-align:left">Everybody goes to jail</td>
+</tr>
+<tr>
+<td style="text-align:center">3</td>
+<td style="text-align:left"><a href="https://www.amazon.com/Rise-Bitcoin-Daniel-Mross/dp/B00OGM2ZY2" target="_blank" rel="external">The Rise and Rise of Bitcoin</a></td>
+<td style="text-align:left">Don’t be fooled by temporary profit-taking</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;I’ve been watching a number of Bitcoin documentaries and movies as of late.  I figured that since I was investing the time to watch the m
+    
+    </summary>
+    
+      <category term="Blockchain" scheme="http://walterpinson.com/categories/Blockchain/"/>
+    
+    
+      <category term="bitcoin" scheme="http://walterpinson.com/tags/bitcoin/"/>
+    
+      <category term="blockchain" scheme="http://walterpinson.com/tags/blockchain/"/>
+    
+      <category term="payments" scheme="http://walterpinson.com/tags/payments/"/>
+    
+      <category term="movies" scheme="http://walterpinson.com/tags/movies/"/>
+    
+  </entry>
   
   <entry>
     <title>One In Twenty; A Founder’s Story</title>
@@ -234,13 +290,14 @@
     <link href="http://walterpinson.com/rich-piana-saved-my-legs/"/>
     <id>http://walterpinson.com/rich-piana-saved-my-legs/</id>
     <published>2014-03-16T07:00:00.000Z</published>
-    <updated>2017-06-22T09:24:03.000Z</updated>
+    <updated>2017-06-24T03:23:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>Why can you find me in the gym nearly every day of the week?  </p>
 <p>Like most guys, I want to look good.  On the one hand, I can admit, it is pure vanity.  On the other hand, it really is about being healthy and achieving longevity.  Putting in work now will ensure that I maximize my quality of life in the later years.</p>
 <p>This is why I took up bodybuilding, or weight training or whatever you want to call it, in the first place.  Now, don’t get me wrong.  I’m not a professional.  I have no intentions of getting on stage (in a speedo) and competing with anyone.  This is something that I do for me.</p>
 <h2 id="Training-Wheels"><a href="#Training-Wheels" class="headerlink" title="Training Wheels"></a>Training Wheels</h2><p>After years of trying to grow my legs yielding only marginal results, one tip from Rich Piana changed everything.</p>
-<p><iframe width="640" height="390" src="//www.youtube.com/embed/7Y8uH2S_FLw" frameborder="0" allowfullscreen></iframe><br><br> <br></p>
+<div style="text-align: center"><br><iframe width="560" height="315" src="https://www.youtube.com/embed/-EVXC_6-gss" frameborder="0" allowfullscreen></iframe><br></div>
+
 <p>Rich delivers two major tips in the Training Wheels video</p>
 <ol>
 <li>Be sure to squat full range of motion (which I already <a href="http://www.poliquingroup.com/Tips/tabid/130/EntryId/1638/Tip-463-Squat-Training-Tips-To-Use-Range-Of-Motion-To-Your-Advantage.aspx" target="_blank" rel="external">learned from Poliquin</a>)</li>
@@ -259,8 +316,10 @@
     
     </summary>
     
-      <category term="Bodybuilding" scheme="http://walterpinson.com/categories/Bodybuilding/"/>
+      <category term="Do You Even Lift?" scheme="http://walterpinson.com/categories/Do-You-Even-Lift/"/>
     
+    
+      <category term="bodybuilding" scheme="http://walterpinson.com/tags/bodybuilding/"/>
     
   </entry>
   
@@ -296,7 +355,7 @@
     <link href="http://walterpinson.com/hello-world/"/>
     <id>http://walterpinson.com/hello-world/</id>
     <published>2013-05-26T07:00:00.000Z</published>
-    <updated>2017-06-23T12:58:43.000Z</updated>
+    <updated>2017-06-24T03:13:56.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="I’m-back"><a href="#I’m-back" class="headerlink" title="I’m back!"></a>I’m back!</h3><p>It took me long enough.  But, I’m finally back from my long hiatus.  It’s not like I don’t have anything to talk about.  I’ve been meaning to start blogging again for the longest time.  I’ve just been super-busy.</p>
 <p>Luckily, in the interim, I’ve grown quite fond of git and Github.  So when I came across the article, <a href="http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html" target="_blank" rel="external">“blogging like a hacker”</a> (which should be titled “blogging like a <em>BOSS</em>“), it was all the excuse I needed.  I could kill two birds with one stone.  …tinker a bit.  …and get back into blogging.</p>
@@ -310,10 +369,10 @@
     
     </summary>
     
-      <category term="Startup Life" scheme="http://walterpinson.com/categories/Startup-Life/"/>
+      <category term="Do You Even Code?" scheme="http://walterpinson.com/categories/Do-You-Even-Code/"/>
     
     
-      <category term="startups" scheme="http://walterpinson.com/tags/startups/"/>
+      <category term="blogging" scheme="http://walterpinson.com/tags/blogging/"/>
     
   </entry>
   
