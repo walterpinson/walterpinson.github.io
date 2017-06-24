@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Walter Pinson</title>
-  <subtitle>Business. Strategy. Technology.</subtitle>
+  <subtitle>Business. Technology. Strategy.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://walterpinson.com/"/>
-  <updated>2017-06-24T03:29:54.000Z</updated>
+  <updated>2017-06-24T06:27:08.000Z</updated>
   <id>http://walterpinson.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://walterpinson.com/Bitcoin-Movie-Review/"/>
     <id>http://walterpinson.com/Bitcoin-Movie-Review/</id>
     <published>2017-06-24T03:29:54.000Z</published>
-    <updated>2017-06-24T03:29:54.000Z</updated>
+    <updated>2017-06-24T06:27:08.000Z</updated>
     
     <content type="html"><![CDATA[<p>I’ve been watching a number of Bitcoin documentaries and movies as of late.  I figured that since I was investing the time to watch the movies, I may as well provide a review.  As I complete each review, you’ll be able to navigate to them by clicking “My Take” in the table below.</p>
 <p>Interestingly enough, Netflix does not (as of June 2017) have a single Bitcoin title available.  On the other hand, Amazon Prime Video has at least 11 documentaries and one feature film on the topic.</p>
@@ -47,6 +47,11 @@
 <td style="text-align:center">3</td>
 <td style="text-align:left"><a href="https://www.amazon.com/Rise-Bitcoin-Daniel-Mross/dp/B00OGM2ZY2" target="_blank" rel="external">The Rise and Rise of Bitcoin</a></td>
 <td style="text-align:left">Don’t be fooled by temporary profit-taking</td>
+</tr>
+<tr>
+<td style="text-align:center">4</td>
+<td style="text-align:left"><a href="https://www.amazon.com/Magic-Money-Tim-Delmastro/dp/B01MU1K517" target="_blank" rel="external">Magic Money: The Bitcoin Revolution</a></td>
+<td style="text-align:left">We are unsecured creditors to our banks</td>
 </tr>
 </tbody>
 </table>
@@ -94,9 +99,9 @@
       <category term="Startup Life" scheme="http://walterpinson.com/categories/Startup-Life/"/>
     
     
-      <category term="credit reporting" scheme="http://walterpinson.com/tags/credit-reporting/"/>
-    
       <category term="startups" scheme="http://walterpinson.com/tags/startups/"/>
+    
+      <category term="credit reporting" scheme="http://walterpinson.com/tags/credit-reporting/"/>
     
       <category term="mortgage" scheme="http://walterpinson.com/tags/mortgage/"/>
     
