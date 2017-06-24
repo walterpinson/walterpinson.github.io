@@ -1,12 +1,11 @@
 ---
-published: !<tag:yaml.org,2002:js/undefined> ""
 layout: post
 title: "Hello World"
 date: 2013-05-26 03:00:00
 categories:
-    - Startup Life
+    - Do You Even Code?
 tags:
-  - startups
+  - blogging
 ---
 
 ### I'm back!  
