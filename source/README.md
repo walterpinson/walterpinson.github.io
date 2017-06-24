@@ -1,3 +1,7 @@
+---
+layout: false
+---
+
 ## WALTERPINSON.COM
 
 This serves as my personal blog.  It was initially built on Jekyll.  But I decided to migrate it to [Hexo](https://hexo.io/).  
