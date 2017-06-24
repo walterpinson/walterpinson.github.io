@@ -52,17 +52,6 @@ Took on a number of contract positions providing program management, software ar
     * Introduced Domain Driven Design and the Onion Architecture to both iPaaS and Recruiting Management System (RMS).
     * Contribute to RMS as a software engineer and software architect.
 
-### PINSON3 SYSTEMS, LLC, Ashburn VA | *Principal* | **2004 - 2010**
-
-Responsible for all aspects of starting and operating a small business; including legal, finance, sales and marketing, and operations.  Responsible for developing and executing go-to-market strategy and marketing plans.  Manage globally distributed professional services organization.  Provide program management support for various private and public sector engagements.
-
-*Highlights*:
-
-* Delivered next-generation .NET Windows client software for Transmitter Location Systems initially deployed with SatMex.
-* Delivered multi-modal biometric and bio-demographic analysis system, BAIT, for Verizon Business.
-* Delivered an information warfare training platform, NEMISYS, for Verizon Business.
-* Web-enabled Qwest’s B2B sales process for Mural Consulting.
-
 ### SMBLIVE INC., Reston, VA | *Chief Software Architect* | **2008 - 2009**
 
 Responsible for overall technology vision, product development, and customer delivery for SaaS-based software company servicing SMBs through global telecommunications partners.  Leading all aspects of architecture and product development, including all build vs. buy analysis, investment rationalization, and delivery schedule for portfolio of products.
@@ -75,6 +64,17 @@ Responsible for overall technology vision, product development, and customer del
 * Member of the senior leadership team responsible for planning and coordinating strategy, budgeting, and business development.
 * Managed globally distributed product development organization.
 * Managed the front-line relationships with global telecommunications industry partners including BT, TelMex, Swisscom, and Telus.
+
+### PINSON3 SYSTEMS, LLC, Ashburn VA | *Principal* | **2004 - 2010**
+
+Responsible for all aspects of starting and operating a small business; including legal, finance, sales and marketing, and operations.  Responsible for developing and executing go-to-market strategy and marketing plans.  Manage globally distributed professional services organization.  Provide program management support for various private and public sector engagements.
+
+*Highlights*:
+
+* Delivered next-generation .NET Windows client software for Transmitter Location Systems initially deployed with SatMex.
+* Delivered multi-modal biometric and bio-demographic analysis system, BAIT, for Verizon Business.
+* Delivered an information warfare training platform, NEMISYS, for Verizon Business.
+* Web-enabled Qwest’s B2B sales process for Mural Consulting.
 
 ### MICROSOFT CORPORATION, Redmond, WA | *Enterprise Strategy Consultant* | **2001 - 2004**
 
