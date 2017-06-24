@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Bitcoin Movie Review
 tags:
   - bitcoin
@@ -20,8 +21,10 @@ Interestingly enough, Netflix does not (as of June 2017) have a single Bitcoin t
 | 1 | [Banking on Bitcoin][1] | Shrem is a stoner; hands caught in cookie jar
 | 2 | [Bitcoin: The End Of Money As We Know It][2] | Everybody goes to jail
 | 3 | [The Rise and Rise of Bitcoin][3] | Don't be fooled by temporary profit-taking
+| 4 | [Magic Money: The Bitcoin Revolution][4] | We are unsecured creditors to our banks
 
 
 [1]: https://www.amazon.com/gp/video/detail/B01MTQZOCV
 [2]: https://www.amazon.com/gp/video/detail/B013HU3WX6
 [3]: https://www.amazon.com/Rise-Bitcoin-Daniel-Mross/dp/B00OGM2ZY2
+[4]: https://www.amazon.com/Magic-Money-Tim-Delmastro/dp/B01MU1K517
