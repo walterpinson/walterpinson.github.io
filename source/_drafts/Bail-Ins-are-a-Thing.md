@@ -4,13 +4,44 @@ title: Bail-Ins are a Thing
 categories:
 	- Blockchain
 tags:
-	- finance
 	- banking
 	- cryptocurrency
 ---
+## Brainstorm
+### Thesis
+- Centralized banking is inherently unsafe for consumers and bail-ins are just the latest recent addition to its risk portfolio
+- Cryptocurrencies can offer protection against the risk associated with centralized banking
+- However, replicating existing banking models with cryptocurrencies poses similar risks
 
-Structure
+### Structure
 
+#### Centralized banking is inherently unsafe for consumers and bail-ins are just the latest recent addition to its risk portfolio.
+
+* We are all aware that many a big bank has proven too big to fail and taken poor risks and begged governments to bail them out with tax-payer money.
+* The problem is that with the collapse of Glass-Steagall, these banks can hold savers hostage
+* Bail-ins are another way that the banks can fuck consumers.
+    * They can just take consumer deposits
+    * Often times, consumers pension funds are invested in these banks via bonds; which results in the consumers getting fucked coming and going
+* How Sway
+    * As soon as a person deposits money with the bank, that person is no longer the owner of the asset.  The bank owns the asset.
+    * The person has just become an an unsecured creditor to the bank.
+    * The bank issues a promissory note to the person.  And now the bank is free to do whatever its wants to with its new money.
+    * If a person believes that their money is safer in the bank than it is underneath their mattress, then it appears to be an even exchange.  But this exchange is now without risk.  And that risk appears to be growing.
+
+#### Cryptocurrencies can offer protection against the risk associated with centralized banking
+* Cryptocurrencies, such as Bitcoin, allow each person to be their own bank
+* This is similar to keeping one's money under one's mattress
+    * You are free from being required to trust a third-party with your funds
+    * But you are responsible for the security of your money
+    * Securing cryptocurrency is not as difficult as it sounds
+
+####However, replicating existing banking models with cryptocurrencies poses similar risks
+* Simply using cryptocurrencies does not automatically protect one from classic banking risks
+* Leveraging third-party exchanges to store cryptocurrencies in much the same way as we leverage banks to store our cash involves the same third-party risk.
+    * People who stored their bitcoin at Mt Gox lost hella loot
+    * Bitfinex bail-in gave users a 36% haircut
+
+### Notes
 * Context
     * Cypress keeps coming up in the crypto currency discussions.
     * The Cypriot government via the banks took all of the citizens money in what is called a Bail-in
@@ -41,14 +72,18 @@ A few points...
 
 
 ## Resources
-[The Cyprus Bank 'Bail-In' Is Another Crony Bankster Scam][1]
-[Here's Where The Next Bank Deposit "Bail-In" Will Strike...][2]
-[Definition of bail-in][3]
-[What is a Bail-In and How Does It Work?][4]]
-[The Economist Explains: What is a Bail-In][5]
+| Publication | Title
+| :--- | :---
+| Financial Times | [Definition of bail-in][3]
+| The Balance | [What is a Bail-In and How Does It Work?][4]
+| The Economist | [The Economist Explains: What is a Bail-In][5]
+| Forbes | [The Cyprus Bank 'Bail-In' Is Another Crony Bankster Scam][1]
+| ZeroHedge | [Here's Where The Next Bank Deposit "Bail-In" Will Strike...][2]
+| Investopedia | [Glass-Steagall Act][6]
 
 [1]: https://www.forbes.com/sites/nathanlewis/2013/05/03/the-cyprus-bank-bail-in-is-another-crony-bankster-scam
 [2]: http://www.zerohedge.com/news/2016-10-10/heres-where-next-bank-deposit-bail-will-strike
 [3]: http://lexicon.ft.com/Term?term=bail_in
 [4]: https://www.thebalance.com/what-is-a-bail-in-and-how-does-it-work-1979089
 [5]: http://www.economist.com/blogs/economist-explains/2013/04/economist-explains-2
+[6]: http://www.investopedia.com/terms/g/glass_steagall_act.asp
