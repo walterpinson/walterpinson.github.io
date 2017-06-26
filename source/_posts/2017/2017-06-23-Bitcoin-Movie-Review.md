@@ -4,6 +4,7 @@ title: Bitcoin Movie Review
 tags:
   - bitcoin
   - blockchain
+  - cryptocurrency
   - payments
   - movies
 categories:
