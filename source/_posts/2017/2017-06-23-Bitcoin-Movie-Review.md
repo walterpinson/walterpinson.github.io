@@ -22,9 +22,11 @@ Interestingly enough, Netflix does not (as of June 2017) have a single Bitcoin t
 | 2 | [Bitcoin: The End Of Money As We Know It][2] | First-movers go to jail
 | 3 | [The Rise and Rise of Bitcoin][3] | Don't be fooled by temporary profit-taking
 | 4 | [Magic Money: The Bitcoin Revolution][4] | We are unsecured creditors to our banks
+| 5 | [The Bitcoin Story][5] | Anarchists, crooks, and cheapskates
 
 
 [1]: https://www.amazon.com/gp/video/detail/B01MTQZOCV
 [2]: https://www.amazon.com/gp/video/detail/B013HU3WX6
 [3]: https://www.amazon.com/Rise-Bitcoin-Daniel-Mross/dp/B00OGM2ZY2
 [4]: https://www.amazon.com/Magic-Money-Tim-Delmastro/dp/B01MU1K517
+[5]: https://www.amazon.com/gp/video/detail/B00V0RZZE
