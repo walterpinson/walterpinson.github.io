@@ -1,12 +1,14 @@
 ---
 title: Today's Steem Randomness...
-categories:
-  - Blockchain
 tags:
   - bitcoin
   - blockchain
   - cryptocurrency
   - payments
+categories:
+  - Blockchain
+date: 2017-06-26 08:04:55
+comments: true
 ---
 
 So, today, I'm having a nice healthy conversation on Facebook with some of my more geek-minded mates (_**H/T** Jamie V. for the Aussie slang rip-off_) about bitcoin and cryptocurrencies, in general.  The whole thing started around a post about a kid who, at 18 years old, is [now a millionaire, having invested in bitcoin][1] back when the coins were only US$12 a pop.  At present, you'll have to pay roughly US$2,300 to get your hands on a bitcoin.
@@ -66,7 +68,6 @@ Since I have to wait, though, I may as well watch this educational video that ex
 [6]: https://futurism.com/china-becomes-first-countrchina-becomes-first-country-in-the-world-to-test-a-national-cryptocurrencyy-to-test-national-cryptocurrency/
 [7]: https://steem.io/
 [8]: https://steemit.com/eos/@trogdor/eos-vs-ethereum-for-dummies
-
 [20]: steemit-bic-camera-bitcoin.png
 [21]: steemit-requires-phone.png
 [22]: steemit-makes-you-wait.png
