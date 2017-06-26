@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://walterpinson.com/"/>
-  <updated>2017-06-26T03:22:25.000Z</updated>
+  <updated>2017-06-26T03:28:29.000Z</updated>
   <id>http://walterpinson.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://walterpinson.com/Bitcoin-Movie-Review/"/>
     <id>http://walterpinson.com/Bitcoin-Movie-Review/</id>
     <published>2017-06-24T03:29:54.000Z</published>
-    <updated>2017-06-26T03:22:25.000Z</updated>
+    <updated>2017-06-26T03:28:29.000Z</updated>
     
     <content type="html"><![CDATA[<p>I’ve been watching a number of Bitcoin documentaries and movies as of late.  I figured that since I was investing the time to watch the movies, I may as well provide a review.  As I complete each review, you’ll be able to navigate to them by clicking “My Take” in the table below.</p>
 <p>Interestingly enough, Netflix does not (as of June 2017) have a single Bitcoin title available.  On the other hand, Amazon Prime Video has at least 11 documentaries and one feature film on the topic.</p>
@@ -70,6 +70,8 @@
     
       <category term="Blockchain" scheme="http://walterpinson.com/categories/Blockchain/"/>
     
+    
+      <category term="cryptocurrency" scheme="http://walterpinson.com/tags/cryptocurrency/"/>
     
       <category term="bitcoin" scheme="http://walterpinson.com/tags/bitcoin/"/>
     
