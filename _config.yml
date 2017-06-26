@@ -86,11 +86,6 @@ github: walterpinson
 facebook:
 linkedin: walterpinson
 
-# Comment
-duoshuo: 
-disqus: walterpinsonblog
-gentie: 
-
 feed:
   type: atom
   path: atom.xml
