@@ -7,6 +7,21 @@ tags:
 	- banking
 	- cryptocurrency
 ---
+
+"Bail-ins" are a relatively unknown risk associated with centralized banking that can be mitigated with consumer adoption of cryptocurrencies.  Centralized banking is inherently risky for consumers and bail-ins are just the latest addition to its growing portfolio of risk.  Cryptocurrencies, such as Bitcoin and Ether, can offer protections agains bail-ins. However, replicating existing banking models by merely switching fiat currency with cryptocurrencies leaves consumers exposed to similar risks.
+
+> Bail-ins are a thing? - me
+
+Unless you've been living under a rock, you know what is a bank bail-out.  That is when the government "loans" tax-payer money to failed banks in order to cover losses incurred due to risky speculation.  What you may not be aware of, is an alternative solution to that problem: the bail-in.
+
+# Point 2
+Cryptocurrencies, such as Bitcoin and Ether, can offer protections agains some of the risks inherent in traditional banking; namely bail-ins.
+
+# Point 3
+
+# Conclusion
+
+
 ## Brainstorm
 ### Thesis
 - Centralized banking is inherently unsafe for consumers and bail-ins are just the latest recent addition to its risk portfolio
@@ -35,7 +50,7 @@ tags:
     * But you are responsible for the security of your money
     * Securing cryptocurrency is not as difficult as it sounds
 
-####However, replicating existing banking models with cryptocurrencies poses similar risks
+#### However, replicating existing banking models with cryptocurrencies poses similar risks
 * Simply using cryptocurrencies does not automatically protect one from classic banking risks
 * Leveraging third-party exchanges to store cryptocurrencies in much the same way as we leverage banks to store our cash involves the same third-party risk.
     * People who stored their bitcoin at Mt Gox lost hella loot
@@ -48,6 +63,7 @@ tags:
     * The government passed legislation that allows banks to perform their own bail-ins should the bank find itself insolvent.
 * What is a Bail-in?
     * May want to contrast this with Bail-outs
+    * The term was coined by The Economist
 * What is the risk to US consumers?
 * How can cryptocurrency help?
 
