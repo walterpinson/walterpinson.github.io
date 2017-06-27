@@ -43,7 +43,7 @@ Took on a number of contract positions providing program management, software ar
     * Contribute to overall architecture as a member of the Architecture Governance Team
     * Design and implement platform Identity and Access Management solution (IAM)
     * Design and develop Member Profile microservice that could be sourced from partner data
-    * Design and development external and internal SSO solution including a SAML 2.0 - integrated partner proxy service
+    * Design and develop external and internal SSO solution including a SAML 2.0 - integrated partner proxy service
 * Peoplefluent
     * Implement various REST-based micro-service APIs
     * Re-architect/design a failing multi-threaded windows service for advanced sourcing
