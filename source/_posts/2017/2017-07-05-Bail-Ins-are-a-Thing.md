@@ -53,7 +53,7 @@ This model of banking is not risk free, however.  As with keeping fiat currency 
 Nothing is 100% fool-proof but these methods can be employed to produce an acceptable level of risk with regards to protecting your cryptocurrency assets.
 
 ## Or, Maybe Not
-Simply using cryptocurrencies does not automatically protect one from classic banking risks.  The risk posed by replicating existing banking models with cryptocurrencies is similar, if not greater.  Leveraging third-party exchanges to store cryptocurrencies in much the same way as we use banks to store our cash involves similar third-party risk.
+Simply using cryptocurrencies does not automatically protect one from classic banking risks.  The risk posed by replicating existing banking models with cryptocurrencies is similar, if not greater.  Leveraging third-party [exchanges][15] to store cryptocurrencies in much the same way as we use banks to store our cash involves similar third-party risk.
 
 Bitcoin, as envisioned by [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto), is intended to be decentralized money.  It is meant to be traded from person to person as anonymously as one might place fiat currency into the cup of a homeless person.  It was never intended to be controlled by one or more centralized third parties.  
 
