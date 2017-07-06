@@ -8,7 +8,7 @@ tags:
 categories:
   - Blockchain
 date: 2017-07-05 21:27:12
-#excerpt: Bail-ins are a relatively unknown risk associated with centralized banking that can be mitigated with consumer adoption of cryptocurrencies.  Centralized banking is inherently risky for consumers and bail-ins are just the latest addition to its growing portfolio of risk.  Cryptocurrencies, such as Bitcoin and Ether, can offer protections against bail-ins.
+excerpt: Bail-ins are a relatively unknown risk associated with centralized banking that can be mitigated with consumer adoption of cryptocurrencies.  Centralized banking is inherently risky for consumers and bail-ins are just the latest addition to its growing portfolio of risk.  Cryptocurrencies, such as Bitcoin and Ether, can offer protections against bail-ins.
 
 ---
 
