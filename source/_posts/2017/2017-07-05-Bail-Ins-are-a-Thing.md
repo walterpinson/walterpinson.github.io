@@ -1,5 +1,6 @@
 ---
 title: 'So..., Bail-Ins Are a Thing'
+image: /Bail-Ins-are-a-Thing/banks_of_cyprus_robbing_public.png
 tags:
   - banking
   - cryptocurrency
@@ -9,10 +10,10 @@ categories:
 date: 2017-07-05 21:27:12
 ---
 
-![](/Bail-Ins-are-a-Thing/banks_of_cyprus_robbing_public.png)
-
 "Bail-ins" are a relatively unknown risk associated with centralized banking that can be mitigated with consumer adoption of cryptocurrencies.  Centralized banking is inherently risky for consumers and bail-ins are just the latest addition to its growing portfolio of risk.  Cryptocurrencies, such as Bitcoin and Ether, can offer protections agains bail-ins. However, replicating existing banking models by merely switching fiat currency with cryptocurrencies leaves consumers exposed to similar risks.
 <!-- more --> 
+
+![](/Bail-Ins-are-a-Thing/banks_of_cyprus_robbing_public.png)
 
 ## What is a bail-in?
 
