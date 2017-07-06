@@ -12,7 +12,7 @@ excerpt: Bail-ins are a relatively unknown risk associated with centralized bank
 
 ---
 
-![<small>Image above: Cartoon of Cypriot bank teller robbing customer by Michael Ramirez.</small>](http://www.islandbreath.org/2013Year/04/130403cypress.jpg)
+![<small>Image above: Cartoon of Cypriot bank teller robbing customer by Michael Ramirez.</small>](/Bail-Ins-are-a-Thing/banks_of_cyprus_robbing_public.png)
 
 "Bail-ins" are a relatively unknown risk associated with centralized banking that can be mitigated with consumer adoption of cryptocurrencies.  Centralized banking is inherently risky for consumers and bail-ins are just the latest addition to its growing portfolio of risk.  Cryptocurrencies, such as Bitcoin and Ether, can offer protections agains bail-ins. However, replicating existing banking models by merely switching fiat currency with cryptocurrencies leaves consumers exposed to similar risks.
 <!-- more --> 
