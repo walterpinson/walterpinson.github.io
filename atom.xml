@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://walterpinson.com/"/>
-  <updated>2017-07-06T05:21:51.000Z</updated>
+  <updated>2017-07-06T13:10:26.000Z</updated>
   <id>http://walterpinson.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://walterpinson.com/Bail-Ins-are-a-Thing/"/>
     <id>http://walterpinson.com/Bail-Ins-are-a-Thing/</id>
     <published>2017-07-06T01:27:12.000Z</published>
-    <updated>2017-07-06T05:21:51.000Z</updated>
+    <updated>2017-07-06T13:10:26.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/Bail-Ins-are-a-Thing/banks_of_cyprus_robbing_public.png" alt="&lt;small&gt;Image above: Cartoon of Cypriot bank teller robbing customer by Michael Ramirez.&lt;/small&gt;"></p>
 <p>“Bail-ins” are a relatively unknown risk associated with centralized banking that can be mitigated with consumer adoption of cryptocurrencies.  Centralized banking is inherently risky for consumers and bail-ins are just the latest addition to its growing portfolio of risk.  Cryptocurrencies, such as Bitcoin and Ether, can offer protections agains bail-ins. However, replicating existing banking models by merely switching fiat currency with cryptocurrencies leaves consumers exposed to similar risks.<br><a id="more"></a> </p>
@@ -39,7 +39,7 @@
 <h2 id="Cryptocurrencies-To-The-Rescue"><a href="#Cryptocurrencies-To-The-Rescue" class="headerlink" title="Cryptocurrencies To The Rescue"></a>Cryptocurrencies To The Rescue</h2><p>Cryptocurrencies, such as Bitcoin and Ether, can offer protections against some of the risks inherent in traditional banking.  Cryptocurrencies allow one to be one’s own bank.  Though this is akin to storing money underneath your mattress, there are risk mitigation strategies that make self-banking a bit more practical and safe.</p>
 <p>Bitcoin and cryptocurrencies, in general, are fundamentally peer-to-peer banking systems.  They enable individuals to become their own banks.  If you are your own bank, then there is no need to trust a third party.  If you haven’t handed your money over to a third party then you are not at risk of losing your money due to institutional failure, either through a bail-in or bail-out.  You are not at risk of being charged overdraft fees.  You are also not at risk of the government taking your money without your knowledge when you store it in your private bitcoin wallet.</p>
 <p>A bitcoin wallet is essentially a public / private cryptographic key pair within which value (BTC) can be stored on the blockchain.  Bitcoin can be deposited into a wallet using the wallet’s public key.  But bitcoin can only be removed from a wallet, or spent, using the wallet’s private key.  Users typically store their bitcoins in a bitcoin wallet application.  Bitcoin wallet applications come in one or more of three flavors:  desktop, web, and mobile.  In addition to wallet applications, there also exist <a href="http://www.coindesk.com/information/paper-wallet-tutorial/" target="_blank" rel="external">paper wallets</a>; which document the wallet’s public and private key on printed paper.  In order to own and spend Bitcoin, you must be in possession of both the public and private keys.</p>
-<p>This model of banking is not risk free, however.  As with keeping fiat currency under the mattress, cryptocurrency users are responsible for securing their own money.  One the one hand, you have to provide for the physical security of your money.  If you store your cryptocurrency on your phone, then you have to make certain that your phone is not stolen.  Further, the ability to spend cryptocurrency is dependent on access to private keys.  You must also protect and remember your private keys otherwise, you money can be stolen or forever lost.  There are a number of methods that can be employed in order to <a href="https://www.welivesecurity.com/2015/03/03/10-tips-protecting-virtual-bitcoin-wallet/" target="_blank" rel="external">secure a bitcoin wallet</a>, some of which include:</p>
+<p>This model of banking is not risk free, however.  As with keeping fiat currency under the mattress, cryptocurrency users are responsible for securing their own money.  On the one hand, you have to provide for the physical security of your money.  If you store your cryptocurrency on your phone, then you have to make certain that your phone is not stolen.  Further, the ability to spend cryptocurrency is dependent on access to private keys.  You must also protect and remember your private keys otherwise, your money can be stolen or forever lost.  There are a number of methods that can be employed in order to <a href="https://www.welivesecurity.com/2015/03/03/10-tips-protecting-virtual-bitcoin-wallet/" target="_blank" rel="external">secure a bitcoin wallet</a>, some of which include:</p>
 <ul>
 <li>Use 2-factor authentication</li>
 <li>Disconnect from the internet so that hackers cannot steal private keys</li>
