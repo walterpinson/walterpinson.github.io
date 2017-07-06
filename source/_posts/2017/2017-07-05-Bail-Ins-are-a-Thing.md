@@ -1,6 +1,6 @@
 ---
 title: 'So..., Bail-Ins Are a Thing'
-image: /Bail-Ins-are-a-Thing/banks_of_cyprus_robbing_public.png
+featured_image: banks_of_cyprus_robbing_public.png
 tags:
   - banking
   - cryptocurrency
