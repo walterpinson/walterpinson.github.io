@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://walterpinson.com/"/>
-  <updated>2017-07-06T05:17:28.000Z</updated>
+  <updated>2017-07-06T05:21:51.000Z</updated>
   <id>http://walterpinson.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://walterpinson.com/Bail-Ins-are-a-Thing/"/>
     <id>http://walterpinson.com/Bail-Ins-are-a-Thing/</id>
     <published>2017-07-06T01:27:12.000Z</published>
-    <updated>2017-07-06T05:17:28.000Z</updated>
+    <updated>2017-07-06T05:21:51.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/Bail-Ins-are-a-Thing/banks_of_cyprus_robbing_public.png" alt="&lt;small&gt;Image above: Cartoon of Cypriot bank teller robbing customer by Michael Ramirez.&lt;/small&gt;"></p>
 <p>“Bail-ins” are a relatively unknown risk associated with centralized banking that can be mitigated with consumer adoption of cryptocurrencies.  Centralized banking is inherently risky for consumers and bail-ins are just the latest addition to its growing portfolio of risk.  Cryptocurrencies, such as Bitcoin and Ether, can offer protections agains bail-ins. However, replicating existing banking models by merely switching fiat currency with cryptocurrencies leaves consumers exposed to similar risks.<br><a id="more"></a> </p>
@@ -47,7 +47,7 @@
 <li>Use paper wallets</li>
 </ul>
 <p>Nothing is 100% fool-proof but these methods can be employed to produce an acceptable level of risk with regards to protecting your cryptocurrency assets.</p>
-<h2 id="Or-Maybe-Not"><a href="#Or-Maybe-Not" class="headerlink" title="Or, Maybe Not"></a>Or, Maybe Not</h2><p>Simply using cryptocurrencies does not automatically protect one from classic banking risks.  The risk posed by replicating existing banking models with cryptocurrencies is similar, if not greater.  Leveraging third-party exchanges to store cryptocurrencies in much the same way as we use banks to store our cash involves similar third-party risk.</p>
+<h2 id="Or-Maybe-Not"><a href="#Or-Maybe-Not" class="headerlink" title="Or, Maybe Not"></a>Or, Maybe Not</h2><p>Simply using cryptocurrencies does not automatically protect one from classic banking risks.  The risk posed by replicating existing banking models with cryptocurrencies is similar, if not greater.  Leveraging third-party <a href="https://blockgeeks.com/guides/best-cryptocurrency-exchanges/" target="_blank" rel="external">exchanges</a> to store cryptocurrencies in much the same way as we use banks to store our cash involves similar third-party risk.</p>
 <p>Bitcoin, as envisioned by <a href="https://en.wikipedia.org/wiki/Satoshi_Nakamoto" target="_blank" rel="external">Satoshi Nakamoto</a>, is intended to be decentralized money.  It is meant to be traded from person to person as anonymously as one might place fiat currency into the cup of a homeless person.  It was never intended to be controlled by one or more centralized third parties.  </p>
 <p>The nearly half a billion dollar theft from and subsequent <a href="http://www.thedailybeast.com/behind-the-biggest-bitcoin-heist-in-history-inside-the-implosion-of-mt-gox" target="_blank" rel="external">failure of Mt. Gox</a> bears this out.  A centralized repository of money on the internet represents a rich target for hackers.  Further adding to the risk is that fact that there is very little regulation and oversight on these bitcoin exchanges in the US and internationally.  So it is difficult to know whether the appropriate security measures matching the threat level have even been put in place.  To this day, it is still unknown whether it was due to negligence or complicity.  But 800,000 bitcoins were stolen from Mt Gox users.  And since there is no FDIC equivalent for cryptocurrency exchanges, those users lost all of their money.</p>
 <p>The recent situation at BitFinex was slightly different.  The bitcoin exchange was hacked, much like Mt. Gox, and hackers got away with nearly 120,000 bitcoin ($60M at the time).  The difference is that <a href="https://www.forbes.com/sites/francescoppola/2016/08/06/theft-and-mayhem-in-the-bitcoin-world/#15cfc953644f" target="_blank" rel="external">Bitfinex implemented a bail-in</a>, forcing each customer to take a 36.067% haircut.</p>
