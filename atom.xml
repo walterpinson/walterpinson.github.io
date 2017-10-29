@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://walterpinson.com/"/>
-  <updated>2017-07-06T13:10:26.000Z</updated>
+  <updated>2017-10-29T07:16:59.000Z</updated>
   <id>http://walterpinson.com/</id>
   
   <author>
@@ -16,11 +16,61 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Bitcoin Movie Review - Deep Web</title>
+    <link href="http://walterpinson.com/Movie-Review-Deep-Web/"/>
+    <id>http://walterpinson.com/Movie-Review-Deep-Web/</id>
+    <published>2017-10-29T06:11:11.000Z</published>
+    <updated>2017-10-29T07:16:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Deep-Web"><a href="#Deep-Web" class="headerlink" title="Deep Web"></a>Deep Web</h1><table>
+<thead>
+<tr>
+<th style="text-align:center">Year</th>
+<th style="text-align:center">Rating</th>
+<th style="text-align:left">Genre</th>
+<th style="text-align:left">Director</th>
+<th style="text-align:left">Staring</th>
+<th style="text-align:center">Coins</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">2015</td>
+<td style="text-align:center">NR</td>
+<td style="text-align:left">Documentary</td>
+<td style="text-align:left">Alex Winter</td>
+<td style="text-align:left">Keanu Reeves</td>
+<td style="text-align:center">4</td>
+</tr>
+</tbody>
+</table>
+<p><img src="/Movie-Review-Deep-Web/Deep_Web_Flim_Poster.jpg" alt="By Source, Fair use, https://en.wikipedia.org/w/index.php?curid=55539546"></p>
+<h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><h3 id="The-Point"><a href="#The-Point" class="headerlink" title="The Point"></a>The Point</h3><p>This movie takes a deep dive into the government takedown of Ross Ulbricht and the Silk Road. It showcases the confluence of technology, libertarian ideals, and government intervention.</p>
+<h3 id="My-Take"><a href="#My-Take" class="headerlink" title="My Take"></a>My Take</h3><p>Though this movie only touches lightly only Bitcoin, it is a fascinating story.  It details one potential, albeit criminal, use case for Bitcoin.  And it touches on issues of privacy, cryptography, government concerns and legality around the technology.  I highly recommend it.</p>
+<h2 id="General-Review"><a href="#General-Review" class="headerlink" title="General Review"></a>General Review</h2><h3 id="Strength"><a href="#Strength" class="headerlink" title="Strength"></a>Strength</h3><p>The Deep Web provides, for the layman, an in depth look at The Silk Road and how Tor and Bitcoin were used in a mashup to create a truly free and anonymous marketplace.  It further shines in the way it gives us a look behind the curtains, from the perspective of the accused, his colleagues and loved ones, into the investigation and prosecution of a dark web target.  That we are guided through this journey by Wired magazine writer Andy Greenburg provides a consistent thread of credibility as well as bookends to the story.</p>
+<h3 id="Weakness"><a href="#Weakness" class="headerlink" title="Weakness"></a>Weakness</h3><p>There is not really much about this documentary that misses the mark.  The 90 minute runtime was used judiciously to effectively tell the story.  If one were forced to complain, it might be that more time was not spent discussing Bitcoin and cryptocurrencies.  But those technologies played supporting roles in this story.  Ulbricht is the star.</p>
+<h3 id="Highlight"><a href="#Highlight" class="headerlink" title="Highlight"></a>Highlight</h3><p>What’s telling about this documentary is the lens it places on the government and its treatment of those who employ technology in the pursuit of criminal enterprise.  In many ways, the justice system is playing catch up and the legal system appears to be further behind than law enforcement.  The United States appears to be on the precipice of setting new and interesting precedence as it relates to Constitutional rights and technology.  We should all watch this space, as it will likely have an outsized impact on Bitcoin, its regulation, and long-term viability and market penetration.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      This movie takes a deep dive into the government takedown of Ross Ulbricht and the Silk Road. It showcases the confluence of technology, libertarian ideals, and government intervention.
+    
+    </summary>
+    
+      <category term="Blockchain" scheme="http://walterpinson.com/categories/Blockchain/"/>
+    
+    
+      <category term="cryptocurrency" scheme="http://walterpinson.com/tags/cryptocurrency/"/>
+    
+  </entry>
+  
+  <entry>
     <title>So..., Bail-Ins Are a Thing</title>
     <link href="http://walterpinson.com/Bail-Ins-are-a-Thing/"/>
     <id>http://walterpinson.com/Bail-Ins-are-a-Thing/</id>
     <published>2017-07-06T01:27:12.000Z</published>
-    <updated>2017-07-06T13:10:26.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/Bail-Ins-are-a-Thing/banks_of_cyprus_robbing_public.png" alt="&lt;small&gt;Image above: Cartoon of Cypriot bank teller robbing customer by Michael Ramirez.&lt;/small&gt;"></p>
 <p>“Bail-ins” are a relatively unknown risk associated with centralized banking that can be mitigated with consumer adoption of cryptocurrencies.  Centralized banking is inherently risky for consumers and bail-ins are just the latest addition to its growing portfolio of risk.  Cryptocurrencies, such as Bitcoin and Ether, can offer protections agains bail-ins. However, replicating existing banking models by merely switching fiat currency with cryptocurrencies leaves consumers exposed to similar risks.<br><a id="more"></a> </p>
@@ -141,9 +191,9 @@
       <category term="Blockchain" scheme="http://walterpinson.com/categories/Blockchain/"/>
     
     
-      <category term="cryptocurrency" scheme="http://walterpinson.com/tags/cryptocurrency/"/>
-    
       <category term="banking" scheme="http://walterpinson.com/tags/banking/"/>
+    
+      <category term="cryptocurrency" scheme="http://walterpinson.com/tags/cryptocurrency/"/>
     
       <category term="hacking" scheme="http://walterpinson.com/tags/hacking/"/>
     
@@ -154,7 +204,7 @@
     <link href="http://walterpinson.com/Steem-Randomness/"/>
     <id>http://walterpinson.com/Steem-Randomness/</id>
     <published>2017-06-26T12:04:55.000Z</published>
-    <updated>2017-06-26T13:29:18.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>So, yesterday, I’m having a nice healthy conversation on Facebook with some of my more geek-minded mates (<em><strong>H/T</strong> Jamie V. for the Aussie slang rip-off</em>) about bitcoin and cryptocurrencies, in general.  The whole thing started around a post about a kid who, at 18 years old, is <a href="http://www.cnbc.com/2017/06/20/bitcoin-millionaire-erik-finman-says-going-to-college-isnt-worth-it.html" target="_blank" rel="external">now a millionaire, having invested in bitcoin</a> back when the coins were only US$12 a pop.  At present, you’ll have to pay roughly US$2,300 to get your hands on a bitcoin.</p>
 <blockquote>
@@ -225,11 +275,11 @@
       <category term="Blockchain" scheme="http://walterpinson.com/categories/Blockchain/"/>
     
     
+      <category term="cryptocurrency" scheme="http://walterpinson.com/tags/cryptocurrency/"/>
+    
       <category term="bitcoin" scheme="http://walterpinson.com/tags/bitcoin/"/>
     
       <category term="blockchain" scheme="http://walterpinson.com/tags/blockchain/"/>
-    
-      <category term="cryptocurrency" scheme="http://walterpinson.com/tags/cryptocurrency/"/>
     
       <category term="payments" scheme="http://walterpinson.com/tags/payments/"/>
     
@@ -240,7 +290,7 @@
     <link href="http://walterpinson.com/Bitcoin-Movie-Review/"/>
     <id>http://walterpinson.com/Bitcoin-Movie-Review/</id>
     <published>2017-06-24T03:29:54.000Z</published>
-    <updated>2017-06-26T12:54:07.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>I’ve been watching a number of Bitcoin documentaries and movies as of late.  I figured that since I was investing the time to watch the movies, I may as well provide a review.  As I complete each review, you’ll be able to navigate to them by clicking “My Take” in the table below.</p>
 <p>Interestingly enough, Netflix does not (as of June 2017) have a single Bitcoin title available.  On the other hand, Amazon Prime Video has at least 11 documentaries and one feature film on the topic.</p>
@@ -291,11 +341,11 @@
       <category term="Blockchain" scheme="http://walterpinson.com/categories/Blockchain/"/>
     
     
+      <category term="cryptocurrency" scheme="http://walterpinson.com/tags/cryptocurrency/"/>
+    
       <category term="bitcoin" scheme="http://walterpinson.com/tags/bitcoin/"/>
     
       <category term="blockchain" scheme="http://walterpinson.com/tags/blockchain/"/>
-    
-      <category term="cryptocurrency" scheme="http://walterpinson.com/tags/cryptocurrency/"/>
     
       <category term="payments" scheme="http://walterpinson.com/tags/payments/"/>
     
@@ -308,7 +358,7 @@
     <link href="http://walterpinson.com/One-In-Twenty-A-Founder%E2%80%99s-Story/"/>
     <id>http://walterpinson.com/One-In-Twenty-A-Founder’s-Story/</id>
     <published>2016-04-19T10:00:53.000Z</published>
-    <updated>2017-06-22T09:37:31.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://www.ftc.gov/reports/section-319-fair-accurate-credit-transactions-act-2003-fifth-interim-federal-trade" target="_blank" rel="external"><span style="font-weight:400;">One in twenty Americans have errors on their credit report so significant that the errors result in less favorable loan terms or outright rejection</span></a><span style="font-weight:400;">.  From 2002 to 2005, I was one in twenty.  My experience with a particular business was such that they were not dealing with me fairly.  I owed them nothing but they placed a negative tradeline on my credit report. Pressed for time, I gave them money that I did not owe in order to bring the tradeline to close. My credit report, however, never reflected the payoff.  I found myself in need of a service that did not exist; a service that gave me the power to ensure that my credit report tradelines reflected my payments.  And having no other recourse,  I set about creating Alekto.</span></p>
 <p><span style="font-weight:400;">It all started when I was in the process of refinancing my house. </span><a href="http://articles.chicagotribune.com/2002-08-16/business/0208160283_1_mortgage-rates-financial-publisher-hsh-associates-keith-gumbinger" target="_blank" rel="external"><span style="font-weight:400;">Mortgage rates were in free fall</span></a><span style="font-weight:400;"> and I stood to save a great deal of money by getting into a lower interest-rate loan. Once my mortgage broker and I had worked out a deal to my liking, he pulled my credit report so that we could begin to execute.  That&#8217;s when things went left.  I was expecting everything to go smoothly, as this was the second home that I had owned and I went through two separate finance events on my first home.  But my broker called me back and told me something that I was not expecting.  He informed me that he could still do the loan but that  I&#8217;d have to buy down a half a point, based on my credit report.  When I asked him what happened, he told me that there was a negative tradeline on my account for $180.  The company reporting the tradeline was the daycare provider in my old neighborhood.</span></p>
@@ -339,7 +389,7 @@
     <link href="http://walterpinson.com/Late-Payers-Not-Always-At-Fault/"/>
     <id>http://walterpinson.com/Late-Payers-Not-Always-At-Fault/</id>
     <published>2016-02-27T02:25:21.000Z</published>
-    <updated>2017-06-22T09:41:42.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://paypastduebills.files.wordpress.com/2016/02/15016504213_11408f9427_z.jpg?w=768" alt="" title="15016504213_11408f9427_z"></p>
 <p><span style="font-weight:400;">The first thing that comes to mind when we learn that someone is late paying their bills is that they are irresponsible.  However, when people pay their bills late in today’s economy, it is often due to circumstances beyond their control.  They could be suffering the impacts of any number of macro- or microeconomic factors such as a weak economic recovery, shifts in the global economy, or an unforeseen medical emergency.</span></p>
@@ -367,7 +417,7 @@
     <link href="http://walterpinson.com/The-CFPB-Has-Been-on-a-Tear/"/>
     <id>http://walterpinson.com/The-CFPB-Has-Been-on-a-Tear/</id>
     <published>2015-07-24T19:00:00.000Z</published>
-    <updated>2017-06-22T09:59:59.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>Those who expected the Consumer Financial Protection Bureau (CFPB), Elizabeth Warren’s brainchild, to be a toothless regulator are either sorely disappointed or thoroughly amused, right now.  The CFPB has been really busy over the last two (2) months (June - July 2015) fighting to protect consumer rights.</p>
 <h3 id="“P”-is-for-Protection"><a href="#“P”-is-for-Protection" class="headerlink" title="“P” is for Protection"></a>“P” is for Protection</h3><p>The Consumer Financial Protection Bureau is responsible for protecting the rights of consumers against abuses from the financial industry.  Certain populations have a higher likelihood of being targets of various finance schemes.  As such, it is no coincidence that two (2) of the  companies that the CFPB took action against, during this period, were found to be taking advantage of blacks or military personnel and their families.  Additionally, the CFPB has take action action against companies in the medical billing and collections business.  It is common practice for medical debt collectors to report adverse information to consumers’ credit reports prior to the consumer even knowing that they owe money.  Home owners impacted by the financial crisis, and students are also susceptible to abuses.  The CFPB recently addressed businesses who took advantage of these consumers, as well.</p>
@@ -522,7 +572,7 @@
     <link href="http://walterpinson.com/rich-piana-saved-my-legs/"/>
     <id>http://walterpinson.com/rich-piana-saved-my-legs/</id>
     <published>2014-03-16T07:00:00.000Z</published>
-    <updated>2017-06-24T03:23:59.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>Why can you find me in the gym nearly every day of the week?  </p>
 <p>Like most guys, I want to look good.  On the one hand, I can admit, it is pure vanity.  On the other hand, it really is about being healthy and achieving longevity.  Putting in work now will ensure that I maximize my quality of life in the later years.</p>
@@ -560,7 +610,7 @@
     <link href="http://walterpinson.com/TSF-is-now-TSF/"/>
     <id>http://walterpinson.com/TSF-is-now-TSF/</id>
     <published>2013-06-06T07:00:00.000Z</published>
-    <updated>2017-06-22T09:43:28.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>At the end of <a href="http://trianglestartupfactory.com/event/spring-2013-pitch-day/" target="_blank" rel="external">TSF Pitch Day Spring 2013</a>, <a href="http://trianglestartupfactory.com/tsf-will-change-the-triangle-forever/" target="_blank" rel="external">Chris Heivly</a> announced that TSF is rebranding and that moving forward it will be know as …wait for it …TSF.  </p>
 <p>Amazing, isn’t it?    :-)  </p>
@@ -587,7 +637,7 @@
     <link href="http://walterpinson.com/hello-world/"/>
     <id>http://walterpinson.com/hello-world/</id>
     <published>2013-05-26T07:00:00.000Z</published>
-    <updated>2017-06-24T03:13:56.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="I’m-back"><a href="#I’m-back" class="headerlink" title="I’m back!"></a>I’m back!</h3><p>It took me long enough.  But, I’m finally back from my long hiatus.  It’s not like I don’t have anything to talk about.  I’ve been meaning to start blogging again for the longest time.  I’ve just been super-busy.</p>
 <p>Luckily, in the interim, I’ve grown quite fond of git and Github.  So when I came across the article, <a href="http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html" target="_blank" rel="external">“blogging like a hacker”</a> (which should be titled “blogging like a <em>BOSS</em>“), it was all the excuse I needed.  I could kill two birds with one stone.  …tinker a bit.  …and get back into blogging.</p>
@@ -613,7 +663,7 @@
     <link href="http://walterpinson.com/The-Importance-of-Abstraction-in-Cloud-Computing/"/>
     <id>http://walterpinson.com/The-Importance-of-Abstraction-in-Cloud-Computing/</id>
     <published>2009-12-21T12:30:00.000Z</published>
-    <updated>2017-06-22T07:46:07.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>My colleague, Peter Palmieri, just penned a blog post about Microsoft’s recent announcement that the Azure platform will offer extensive and familiar relational database features via SQL Data Services (SDS). In his post, Leveraging Skills, Peter discusses the fact that .NET developers will be able to leverage their existing SQL Server database skills when developing against the Azure platform.</p>
 <p><a href="http://walterpinson.sys-con.com/node/883998" target="_blank" rel="external">read more</a></p>
@@ -633,7 +683,7 @@
     <link href="http://walterpinson.com/Is-Cloud-Computing-Like-Teenage-Sex/"/>
     <id>http://walterpinson.com/Is-Cloud-Computing-Like-Teenage-Sex/</id>
     <published>2009-12-06T05:45:00.000Z</published>
-    <updated>2017-06-22T07:46:01.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>It was once said back <strong>in the early ‘90s</strong> that “<a href="http://www.allbusiness.com/technology/software-services-applications-network-software/7765382-1.html" title="Client/server computing: release the power of the desktop." target="_blank" rel="external">Client/server computing is a little like teenage sex</a> – everyone talks about it, few actually do it, and even fewer do it right. Nevertheless many people believe client/server computing is the next major step in the evolution of corporate information systems.”</p>
 <p>Can the same be said about cloud computing, today?</p>
@@ -661,7 +711,7 @@
     <link href="http://walterpinson.com/Automated-Customer-Service-Nike-just-stole-my-heart/"/>
     <id>http://walterpinson.com/Automated-Customer-Service-Nike-just-stole-my-heart/</id>
     <published>2009-10-31T16:41:52.000Z</published>
-    <updated>2017-06-22T07:45:56.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>I can’t believe that I’m writing this.&#160; But I have to give credit where credit is due.&#160; I just called to check on an order that I placed with Nike.com a while ago that hasn’t yet been delivered.&#160; My first reaction to the automated voice response was a negative one.&#160; I hate those things.&#160; Normally, […]</p>
 <p><a href="http://walterpinson.sys-con.com/node/1167221" target="_blank" rel="external">read more</a></p>
@@ -681,7 +731,7 @@
     <link href="http://walterpinson.com/Code-Contracts-in-NET-Help-Distributed-Software-Development-Teams/"/>
     <id>http://walterpinson.com/Code-Contracts-in-NET-Help-Distributed-Software-Development-Teams/</id>
     <published>2009-06-11T09:00:00.000Z</published>
-    <updated>2017-06-22T07:45:49.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>Code Contracts are very useful under any circumstance; however, they are particularly useful in helping distributed software development teams increase team efficiency, improve product quality, and mitigate against risks associated with team dispersion.</p>
 <p><a href="http://walterpinson.sys-con.com/node/883999" target="_blank" rel="external">read more</a></p>
@@ -701,7 +751,7 @@
     <link href="http://walterpinson.com/Architectural-Fidelity-with-Globally-Distributed-Software-Development-Teams/"/>
     <id>http://walterpinson.com/Architectural-Fidelity-with-Globally-Distributed-Software-Development-Teams/</id>
     <published>2009-03-19T23:44:00.000Z</published>
-    <updated>2017-06-22T07:45:44.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>Software businesses that engage in offshore outsourcing face a number of risks.&#160; Of particular importance to the software architect, is the risk associated with the architectural fidelity of the company’s software products.&#160; Small and mid-sized enterprises (SMEs) and ISVs face greater levels of difficulty than do their large enterprise counterparts when it comes to managing […]</p>
 <p><a href="http://walterpinson.sys-con.com/node/885658" target="_blank" rel="external">read more</a></p>
@@ -721,7 +771,7 @@
     <link href="http://walterpinson.com/Hyundai-schools-us-on-Relationship-Marketing/"/>
     <id>http://walterpinson.com/Hyundai-schools-us-on-Relationship-Marketing/</id>
     <published>2009-02-17T08:19:31.000Z</published>
-    <updated>2017-06-22T07:45:40.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>Hyundai has produced commercials to create awareness about its new Hyundai Assurance Program.</p>
 <p>I don’t watch much television, so the fact that I’ve seen these commercial a few times is indicative of a strong marketing campaign.<br>When visiting its web site, Hyundai let’s you know that “WE’VE GOT YOUR BACK”.&#160; The Hyundai Assurance Program, in a nutshell, […]</p>
@@ -743,7 +793,7 @@
     <link href="http://walterpinson.com/Experian-snubs-FTC-Who-will-win-this-fight-%E2%80%A6/"/>
     <id>http://walterpinson.com/Experian-snubs-FTC-Who-will-win-this-fight-…/</id>
     <published>2009-01-25T00:00:00.000Z</published>
-    <updated>2017-06-22T09:59:26.000Z</updated>
+    <updated>2017-10-29T07:16:59.000Z</updated>
     
     <content type="html"><![CDATA[<p>The FACT Act requires that the FTC improve the accuracy of consumer records and make improvements in the use of, and consumer access to credit information.&#160; It says as much in the first paragraph.<br>The FTC has devised a methodology that requires experts and consumers to work together to audit CRAs for accuracy and completeness.&#160; It […]</p>
 <p><a href="http://walterpinson.sys-con.com/node/896788" target="_blank" rel="external">read more</a></p>
