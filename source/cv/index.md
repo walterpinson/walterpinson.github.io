@@ -109,7 +109,7 @@ Responsible for the overall architecture and design of the managed services host
 
 | Year | University | Degree
 | :---: | :--- | :---
-| 2019 | Sloan School of Management<br>MIT | **Executive Certificate in Strategy and Innovation**<br>Focus: Blockchain, Platform Strategy, Design Thinking, Digital Marketing
+| 2019 | Sloan School of Management<br>Massachusetts Institute of Technology | **Executive Certificate in Strategy and Innovation**<br>Focus: Blockchain, Platform Strategy, Design Thinking, Digital Marketing
 | 2010 | Mansfield College<br>UNIVERSITY OF OXFORD | **Certificate, EU Market Dynamics**<br>Focus:  Business in the EU
 | 2010 | School of Management<br>GEORGE MASON UNIVERSITY | **MBA** <br>Focus:  Entrepreneurship, International Business & Emerging Markets
 | 1997 | Volgenau School of Engineering<br>GEORGE MASON UNIVERSITY | **Bachelor of Science, Major in Computer Science**<br>Focus:  Distributed Computing and Parallel Algorithms
