@@ -18,12 +18,10 @@ comments: false
 * International Business
 
 ## Recent Experience
+
 Focus for the last five (5) years with agile Scrum teams developing RESTful microservices with .Net Core, NodeJS, NGINX, Docker, and Docker Cloud,  SaaS ASP.NET MVC (5) web applications and ASP.NET Web API (2.0) REST APIs applying the Onion Architecture using DDD and TDD principles.  Additionally, there was tool and multi-threaded Windows service development.  All environments have implemented Continuous Integration and have strived for Continuous Delivery.  Technologies used in these efforts include: C#, Unity (IoC container, dependency injection), AutoMapper, Entity Framework, SQL Server (including SSIS), MongoDB, Firebase, NUnit, NSubstitute, MSTest, Moq, Solr search, OAuth, OpenID, SAML 2.0, Auth0, PingFederate, SendGrid, AWS, Azure, Stripe, XML, JSON, Javascript, Node.js, Mocha, Sinon.js, GitHub, Subversion, TFS, TFS Build, CircleCI, TravisCI, Jenkins, Bamboo, Rally, TargetProcess, Trello, VersionOne and much more.
 
-
-
-### ALEKTO CORPORATION, Durham, NC | *Founder and CEO* | **2012 - present** 
-
+### ALEKTO CORPORATION, Durham, NC | *Founder and CEO* | **2012 - present**
 
 Do everything.  Use lean startup techniques to create a business from the ground up. Develop a sustainable business model, determine the addressable market and identify customer beach-heads.  Manage the boards of directors and advisors.  Manage investors, navigate legal and regulatory issues, and manage product development.  Prepare budgets, manage burn-rate, and perform financial reporting.  Pitch the business.
 
@@ -107,11 +105,11 @@ Responsible for the overall architecture and design of the managed services host
 * Helped grow the organization from 7 people to over 200 people.
 * Helped Microsoft program managers understand high-availability and scalability requirements that its server products had to meet in order to enable suitable SLAs from hosting partners.
 
-
 ## Education
 
 | Year | University | Degree
 | :---: | :--- | :---
+| 2019 | Sloan School of Management<br>MIT | **Executive Certificate in Strategy and Innovation**<br>Focus: Blockchain, Platform Strategy, Design Thinking, Digital Marketing
 | 2010 | Mansfield College<br>UNIVERSITY OF OXFORD | **Certificate, EU Market Dynamics**<br>Focus:  Business in the EU
 | 2010 | School of Management<br>GEORGE MASON UNIVERSITY | **MBA** <br>Focus:  Entrepreneurship, International Business & Emerging Markets
 | 1997 | Volgenau School of Engineering<br>GEORGE MASON UNIVERSITY | **Bachelor of Science, Major in Computer Science**<br>Focus:  Distributed Computing and Parallel Algorithms
