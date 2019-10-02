@@ -148,6 +148,10 @@ Held positions, during the 1990s, of progressively increased responsibility requ
 
 | Year | Description | Provider
 | :---: | :--- | :---
+| 2019 | Platform Strategy: Building and Thriving in a Vibrant Ecosystem | MIT Sloan Executive Education
+| 2019 | Digital Marketing Analytics | MIT Sloan Executive Education
+| 2019 | Mastering Design Thinking | MIT Sloan Executive Education
+| 2018 | Blockchain Technologies: Business Innovation and Application | MIT Sloan Executive Education
 | 2011 | Certified Scrum Master (CSM) | Scrum Alliance
 | 2010 | Doing Business with the EU: …Programme at Mansfield College| Oxford University
 | 2007 | Fundamental Selling Techniques … | [AMA][1]
