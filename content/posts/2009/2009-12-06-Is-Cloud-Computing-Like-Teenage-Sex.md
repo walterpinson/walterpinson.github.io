@@ -1,7 +1,7 @@
 ---
-title: Is Cloud Computing Like Teenage Sex?
-tags: []
+title: "Is Cloud Computing Like Teenage Sex?"
 date: 2009-12-06 00:45:00
+draft: false
 ---
 
 It was once said back **in the early ‘90s** that “[Client/server computing is a little like teenage sex](http://www.allbusiness.com/technology/software-services-applications-network-software/7765382-1.html "Client/server computing: release the power of the desktop.") – everyone talks about it, few actually do it, and even fewer do it right. Nevertheless many people believe client/server computing is the next major step in the evolution of corporate information systems.”

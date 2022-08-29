@@ -1,14 +1,7 @@
 ---
-title: Steem Randomness...
-tags:
-  - bitcoin
-  - blockchain
-  - cryptocurrency
-  - payments
-categories:
-  - Blockchain
-comments: true
+title: "Steem Randomness..."
 date: 2017-06-26 08:04:55
+draft: false
 ---
 
 

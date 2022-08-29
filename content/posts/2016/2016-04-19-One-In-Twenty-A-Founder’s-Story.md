@@ -1,11 +1,7 @@
 ---
-title: One In Twenty; A Founder’s Story
+title: "One In Twenty; A Founder’s Story"
 date: 2016-04-19 06:00:53
-categories: Startup Life
-tags:
-  - startups
-  - credit reporting
-  - mortgage
+draft: false
 ---
 
 [<span style="font-weight:400;">One in twenty Americans have errors on their credit report so significant that the errors result in less favorable loan terms or outright rejection</span>](https://www.ftc.gov/reports/section-319-fair-accurate-credit-transactions-act-2003-fifth-interim-federal-trade)<span style="font-weight:400;">.  From 2002 to 2005, I was one in twenty.  My experience with a particular business was such that they were not dealing with me fairly.  I owed them nothing but they placed a negative tradeline on my credit report. Pressed for time, I gave them money that I did not owe in order to bring the tradeline to close. My credit report, however, never reflected the payoff.  I found myself in need of a service that did not exist; a service that gave me the power to ensure that my credit report tradelines reflected my payments.  And having no other recourse,  I set about creating Alekto.</span>

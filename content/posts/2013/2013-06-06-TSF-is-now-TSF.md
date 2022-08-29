@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
-title: TSF is now ...TSF
-categories:
-    - Startup Life
-tags:
-  - startups
+title: "TSF is now ...TSF"
 date: 2013-06-06 03:00:00
+draft: false
 ---
 
 At the end of [TSF Pitch Day Spring 2013][1], [Chris Heivly][4] announced that TSF is rebranding and that moving forward it will be know as …wait for it …TSF.  

@@ -1,12 +1,7 @@
 ---
-title: Experian snubs FTC. Who will win this fight?…
+title: "Experian snubs FTC. Who will win this fight?…"
 date: 2009-01-24 19:00:00
-category:
-    - Credit Reporting
-tags:
-    - credit reporting
-    - experian
-    - ftc
+draft: false
 ---
 
 The FACT Act requires that the FTC improve the accuracy of consumer records and make improvements in the use of, and consumer access to credit information.&#160; It says as much in the first paragraph.

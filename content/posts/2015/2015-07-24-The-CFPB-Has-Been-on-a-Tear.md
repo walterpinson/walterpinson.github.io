@@ -1,13 +1,7 @@
 ---
-published: true
-layout: post
-title: The CFPB Has Been on a Tear...
+title: "The CFPB Has Been on a Tear..."
 date: 2015-07-24 15:00:00
-categories: 
-    - Credit Reporting
-tags:
-    - cfpb
-    - credit reporting
+draft: false
 ---
 
 Those who expected the Consumer Financial Protection Bureau (CFPB), Elizabeth Warren's brainchild, to be a toothless regulator are either sorely disappointed or thoroughly amused, right now.  The CFPB has been really busy over the last two (2) months (June - July 2015) fighting to protect consumer rights.

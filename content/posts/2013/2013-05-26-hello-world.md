@@ -1,11 +1,7 @@
 ---
-layout: post
 title: "Hello World"
 date: 2013-05-26 03:00:00
-categories:
-    - Do You Even Code?
-tags:
-  - blogging
+draft: false
 ---
 
 ### I'm back!  

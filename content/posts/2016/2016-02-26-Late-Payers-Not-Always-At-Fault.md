@@ -1,10 +1,7 @@
 ---
-title: Late Payers Not Always At Fault
+title: "Late Payers Not Always At Fault"
 date: 2016-02-26 21:25:21
-categories:
-  - Credit Reporting
-tags:
-  - credit reporting
+draft: false
 ---
 
 ![](https://paypastduebills.files.wordpress.com/2016/02/15016504213_11408f9427_z.jpg?w=768 "15016504213_11408f9427_z")

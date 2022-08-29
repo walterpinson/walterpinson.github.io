@@ -1,11 +1,8 @@
 ---
 title: Bitcoin Movie Review - Deep Web
-featured_image: /Movie-Review-Deep-Web/Deep_Web_Flim_Poster.jpg
-tags:
-  - cryptocurrency
-categories:
-  - Blockchain
 date: 2017-10-29 02:11:11
+draft: false
+featured_image: /Movie-Review-Deep-Web/Deep_Web_Flim_Poster.jpg
 excerpt: This movie takes a deep dive into the government takedown of Ross Ulbricht and the Silk Road. It showcases the confluence of technology, libertarian ideals, and government intervention.
 ---
 

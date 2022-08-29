@@ -1,15 +1,7 @@
 ---
-layout: post
-title: Bitcoin Movie Review
-tags:
-  - bitcoin
-  - blockchain
-  - cryptocurrency
-  - payments
-  - movies
-categories:
-  - Blockchain
+title: "Bitcoin Movie Review"
 date: 2017-06-23 23:29:54
+draft: false
 ---
 
 

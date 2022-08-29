@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
 title: "Rich Piana Saved My Legs"
-categories:
-	- Do You Even Lift?
-tags:
-	- bodybuilding
 date: 2014-03-16 03:00:00
+draft: false
 ---
 Why can you find me in the gym nearly every day of the week?  
 

@@ -1,7 +1,7 @@
 ---
-title: Hyundai schools us on Relationship Marketing
-tags: []
+title: "Hyundai schools us on Relationship Marketing"
 date: 2009-02-17 03:19:31
+draft: false
 ---
 
 Hyundai has produced commercials to create awareness about its new Hyundai Assurance Program.
